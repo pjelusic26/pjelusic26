@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjelusic26, a PhD student in Zagreb, Croatia.
 - 👀 I’m interested in Data Science, Neural Networks, Image Processing, Running Marathons, and Croissants.
-- 🌱 I’m currently learning Python, and the plan is to start learning SQL.
+- 🌱 I’m a Python guy primarily, but also currently learning SQL as well.
 - 💞️ I’m looking to collaborate on all interesting projects, that include some of the above.
 - 📫 Contact me if you find any of this amusing :)
 
